@@ -1,1 +1,1 @@
-Run the dicee.html to start the program.
+Run the index.html to start the program.
